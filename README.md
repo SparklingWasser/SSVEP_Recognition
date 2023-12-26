@@ -9,7 +9,7 @@ The list of the functions are:
 5. Filter-bank CCA (FBCCA)
 6. Minimum energy combination (MEC)
 
-Authors: 
+Authors: <br>
 Hodam Kim | rhg910907@hanyang.ac.kr, 
 Seonghun Park | s.park7532@gmail.com, 
 Jinuk Kwon | kowm2000@naver.com, 
