@@ -10,9 +10,9 @@ The list of the functions are:
 6. Minimum energy combination (MEC)
 
 Authors: 
-Hodam Kim | rhg910907@hanyang.ac.kr
-Seonghun Park | s.park7532@gmail.com
-Jinuk Kwon | kowm2000@naver.com
+Hodam Kim | rhg910907@hanyang.ac.kr, 
+Seonghun Park | s.park7532@gmail.com, 
+Jinuk Kwon | kowm2000@naver.com, 
 Computational Neuroengineering (CoNE) Laboratory, Hanyang University, South Korea
 (All authors equally contributed)
 
